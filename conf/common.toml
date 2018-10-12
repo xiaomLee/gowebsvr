@@ -1,0 +1,4 @@
+[server]
+    name = "gowebsvr"
+    port = 8080
+    timeoutms = 2000
