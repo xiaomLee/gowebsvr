@@ -1,8 +1,8 @@
 package config
 
 import (
-	"sync"
 	"github.com/spf13/viper"
+	"sync"
 )
 
 type OnceFlag struct {

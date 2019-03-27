@@ -1,4 +1,4 @@
-package gowebsvr
+package main
 
 import (
 	"fmt"
