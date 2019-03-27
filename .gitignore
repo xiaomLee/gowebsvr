@@ -1,0 +1,11 @@
+# 文件后缀
+*.log
+*.o
+*.a
+*.so
+
+# 文件夹
+output
+.vscode
+vendor
+/**/*/.statsd

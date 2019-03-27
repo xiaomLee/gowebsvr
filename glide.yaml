@@ -1,0 +1,6 @@
+package: github.com/xiaomLee/gowebsvr
+import:
+- package: github.com/gin-gonic/gin
+  version: v1.3.0
+- package: github.com/spf13/viper
+  version: v1.3.2
